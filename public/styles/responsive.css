@@ -1,0 +1,133 @@
+
+@media (max-width: 900px) {
+    #page-home {
+        background-position-x: 70vw;
+    }
+
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a {
+        position: absolute;
+        bottom: 48px;
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-home main {
+        align-items: center;
+    }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results .cards img {
+        height: 200px;
+    }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 1700px) {
+    #page-home {
+        background-position-x: 40vw;
+    }
+}
+
+@media (max-height: 760px) {
+    #page-home {
+        background-position-y: 200px;
+    }
+}
+
+@media(max-width: 540px) {
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    form h1 {
+        text-align: center;
+    }
+
+    form legend {
+        flex-direction: column;
+        justify-content: center;
+        gap: 16px;
+    }
+
+    .items-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    form button {
+        align-self: center;
+    }
+}
+
+@media(max-width: 425px) {
+    #modal .content {
+        width: 330px;
+    }
+
+    form h1 {
+        font-size: 34px;
+    }
+
+    .items-grid li {
+        padding: 32px 10px 16px;
+    }
+}
+
+@media(max-width: 320px) {
+    div#page-home main h1 {
+        font-size: 48px;
+    }
+
+    div#page-home main p {
+        font-size: 20px;
+    }
+
+    div#page-home main a strong {
+        font-size: 15px;
+    }
+
+    header {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    form {
+        padding: 25px;
+    }
+
+    form h1 {
+        font-size: 30px;
+    }
+
+    #modal .content {
+        width: 280px;
+    }
+
+    #modal .header h1 {
+        font-size: 28px;
+    }
+
+    #modal .content form {
+        padding: unset;
+    }
+
+    #modal form input {
+        padding: 16px 16px;
+    }
+}
