@@ -85,10 +85,6 @@
         margin-right: 0;
         margin-bottom: 6px;
     }
-
-    #page-home main a {
-        margin-bottom: 20px;
-    }
 }
 
 @media(max-width: 425px) {
