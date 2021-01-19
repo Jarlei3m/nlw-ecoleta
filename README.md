@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-- A weeklong rocketseat bootcamp project. Main technologies: html, css,javascript, sqlite3 and nunjucks;
+- A weeklong rocketseat bootcamp project. Main technologies: html, css, javascript, sqlite3 and nunjucks;
 
 - A simple website to register a point for selective collection of recyclable waste;
 
@@ -15,7 +15,7 @@
 ## 🔥 Check it out!
 
 - [https://br-ecoleta.herokuapp.com/](https://br-ecoleta.herokuapp.com/)
-  ![Github repository storage](public/assets/images/ecoleta.gif)
+  ![Github repository storage](public/assets/images/ecoleta-gif.gif)
 
 <p>&nbsp;&nbsp;</p>
 
