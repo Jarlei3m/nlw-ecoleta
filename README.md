@@ -4,7 +4,9 @@
 
 ## 💻 Project
 
-- A weeklong rocketseat bootcamp project. Main technologies: html, css, javascript, sqlite3 and nunjucks;
+- A weeklong rocketseat bootcamp project. 
+
+- Main technologies: HTML, CSS, Javascript, SQLite3 and Nunjucks;
 
 - A simple website to register a point for selective collection of recyclable waste in Brazil;
 
