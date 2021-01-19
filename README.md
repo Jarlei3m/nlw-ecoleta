@@ -6,7 +6,7 @@
 
 - A weeklong rocketseat bootcamp project. Main technologies: html, css, javascript, sqlite3 and nunjucks;
 
-- A simple website to register a point for selective collection of recyclable waste;
+- A simple website to register a point for selective collection of recyclable waste in Brazil;
 
 <p>&nbsp;&nbsp;</p>
 
